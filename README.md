@@ -1,5 +1,5 @@
 # Social-Distancing-Model
-This is a social Distancing Model that I created in Tinkercad , feel free to make the changes.
+This is a social Distancing Model that I created in Tinkercad , feel free to make changes.
 
 ![COA PROJECT KK-SK-2022](https://user-images.githubusercontent.com/91105941/201506531-b18917af-9f36-4520-b84d-11de98fb9f25.png)
 
